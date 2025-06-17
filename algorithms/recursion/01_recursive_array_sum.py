@@ -9,6 +9,10 @@ nums = [int(num) for num in input().split()]
 print(array_sum(nums, 0))
 
 
+## Inputs
+# 1 2 3 4 10
+# -1 0 1
+
 
 
 
