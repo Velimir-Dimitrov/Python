@@ -6,8 +6,6 @@ def fibonacci(number):
         return 1
     return fibonacci(number - 1) + fibonacci(number - 2)
 
-
-
 num = int(input())
 print(fibonacci(num))
 
