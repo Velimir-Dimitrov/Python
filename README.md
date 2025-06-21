@@ -19,7 +19,10 @@ Below are the courses included in this repository, in the order they were taken:
    Covers Object-Oriented Programming including classes, inheritance, encapsulation, polymorphism, and SOLID principles.
 
 5. **[Python ORM – June 2024](https://softuni.bg/trainings/4547/python-orm-june-2024)**  
-   Introduces Object-Relational Mapping using Python, working with databases, SQLAlchemy, and creating structured, data-driven applications.
+   Introduces Object-Relational Mapping using Python, working with databases, PostgreSQL, and creating structured, data-driven applications.
+
+6. **[Algorithms with Python](https://softuni.bg/trainings/3817/algorithms-with-python-july-2022)**
+   The course focus is most common programming techniques. Along with this, numerous algorithmic problems are solved and various approaches are analyzed - their properties, applications, advantages and disadvantages.
 
 
 > Folder names may vary slightly depending on how the content is structured per course.
